@@ -25,3 +25,22 @@ LiveTiles Bots — the new AI platform LiveTiles revealed at Ignite 2017 — ful
 And what do the humans do once AI has eliminated all drudgery? Thankfully, Hit Refresh has a vision for that as well: focusing on the comparative advantage of being Homo Sapien. Providing the empathy in the workplace, the creativity in the work, and the accountability for each technological component that will so rapidly change the economic and social landscape. I welcome a future where we get to be more human because intelligent technology means we can stop thinking like machines.
 Reasonable, Foreseeable Cyberpunk
 Among the visions of the future, Satya touched upon some shifts in commerce and government that read like Cyberpunk come to life. Since first becoming a fan of the genre playing Seattle-based role-playing game Shadowrun way back in middle school, I’ve always considered the 80s vision of the future represented in Neuromancer and Johnny Mnemonic an unlikely and bleak possibility, but Hit Refresh has unique sections that portray the rise of corporations over states and the medium of technology becoming the primary conduit of culture as desirable, irreversible, and even
+
+
+
+
+
+
+
+A Blueprint for Tri-Cities
+The final chapter of the book, “Economic Growth for Everyone”, is the most most prophetic for Tri-Cities. While ostensibly talking about developing nations in Africa and Asia, it hits upon an approach for “under-served parts of the world” which I believe represents the best economic remedy for Americans far from urban centers. Linking education, innovation, and entrepreneurship into a virtuous cycle is Satya’s prescription and I agree.
+
+A nexus of tech entrepreneurs in Tri-Cities, WA
+Key ideas, like “growing local tech entrepreneurs” rather than trying to attract Silicon Valley opportunities resonates with me as a Tri-Citizen. Focus on fostering human-capital and next-generation skill development, along with trying to recognize a place as a “startup city” (without necessarily triggering the Cyberpunk concerns of loosening regulation, rather simply focusing culture) are all analogs to what Fuse Coworking & Accelerator in Tri-Cities, WA is trying to do every day. Without the grassroots making connections and sharing ideas, there would have been far less human capital in Tri-Cities for LiveTiles to open an office. Without the combination of local investment in people and global opportunity in business, there is no future.
+Satya outlines a formula for economic growth we can emulate:
+Sum of (Education + Innovation) X Intensity of Tech Use = Economic Growth
+In the digital age, software is a universal input to progress and a geographically unconstrained output to the economy. This encourages me to keep advocating, educating, and launching new ideas from Tri-Cities, driving more education and innovation for my hometown so it can be magnified out into international growth.
+Satya Nadella may be about 4 hours away from Tri-Cities every day, but the work we do in the LiveTiles Tri-Cities office is transported to Microsoft instantly. If more Tri-Citizens can harness their human capital and focus on exports, if only acrossthe Cascade Mountains led by the insightful and empathetic Satya Nadella himself, then a sustainable future for our community is possible. Think global, code local.
+I would recommend any leader in an AI startup like LiveTiles, aspiring scholar of the potential Cyberpunk apocalypse, or Tri-Citizen to read Hit Refresh by Satya Nadella. It comments on the rewritten source code of a corporate giant and discusses the little things that make us human. It shows the vulnerability of a man who leads over a hundred-thousand employees, provides platforms for millions of jobs in an expansive tech ecosystem, and the ethics of an industry that will change billions of lives.
+
+Erik Ralston is Chief Architect at LiveTiles where he leads the software team building the world’s only Intelligent Experience Platform (IXP), powering pages and bots across the enterprise and around the world. Erik is also co-founder of Fuse Coworking & Accelerator in Tri-Cities, WA where he works on connecting people and sharing knowledge to turn new ideas into growing startups. You can find him on LinkedIn, Twitter, or the next Fuse event.
